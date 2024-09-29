@@ -1,6 +1,7 @@
-def welcome(test):
-    print("I will keep the some name of the welcomming function but i want to add a param")
-    print(test)
+def Great():
+    print("I change the name of the welcomming function")
+    print("i want to see the conflit when i merge from the other branch")
+
 
 if __name__ == "__main__":
-    welcome("test")
+    Great()

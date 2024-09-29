@@ -1,6 +1,5 @@
-def Greate():
-    print("Hello from the new branch feature/ma-nouvellefonctionnalite")
-    print("I have changed the name of the function from welcom to greate")
+def welcome():
+    print("I will keep the some name of the welcomming function")
 
 if __name__ == "__main__":
-    Greate()
+    welcome()
